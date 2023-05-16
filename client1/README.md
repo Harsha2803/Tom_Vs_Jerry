@@ -92,23 +92,23 @@ Only logged in users can:
 <p align="left">
         Sign Up Page<hr>
         <br>
-        <img src="/screenshots/signup.png" alt="" >
+        <img src="/client1/screenshots/signup.png" alt="" >
         <br><br>
         Login Page<hr>
         <br>
-        <img src="/screenshots/login.png" alt="" >
+        <img src="/client1/screenshots/login.png" alt="" >
         <br><br>
          Admin Panel and LeaderBoard<hr>
-        <img src="/screenshots/Deadend.png" alt="" >
+        <img src="/client1/screenshots/Deadend.png" alt="" >
         <br><br>
          Player Scorecard View <hr>
         <img src="https://user-images.githubusercontent.com/73771646/236883438-2854b849-066d-40a9-8c84-f2db7fb90ddc.png" alt="" >
         <br><br>
          Deadend <hr>
-        <img src="/screenshots/Deadend.png" alt="" >
+        <img src="/client1/screenshots/Deadend.png" alt="" >
         <br><br>
          Completion View<hr>
-        <img src="/screenshots/Completion.png" alt="" >
+        <img src="/client1/screenshots/Completion.png" alt="" >
 </p>
 
 
@@ -128,7 +128,7 @@ Only logged in users can:
 # Stage 1: Find The Cheese
 <hr>
 <p align="center">
-        <img src="/screenshots/stage1.png" alt="" >
+        <img src="/client1/screenshots/stage1.png" alt="" >
     </p>
 
 
@@ -164,7 +164,7 @@ This stage aims to give players a head start and take them on a thrilling journe
 # Stage 2: What's My Name ?
 <hr>
 <p align="center">
-        <img src="/screenshots/stage2.png" alt="" >
+        <img src="/client1/screenshots/stage2.png" alt="" >
     </p>
 
 
@@ -205,7 +205,7 @@ This stage is design to assess memory and critical thinking.
 # Stage 3: Keep In Order!!
 <hr>
 <p align="center">
-        <img src="/screenshots/stage3.png" alt="" >
+        <img src="/client1/screenshots/stage3.png" alt="" >
     </p>
 
 
@@ -241,7 +241,7 @@ The stage tests user of their Memory and Comprehensive soft skills.
 # Stage 4: Listen Some Music !
 <hr>
 <p align="center">
-        <img src="/screenshots/stage4.png" alt="" height = 450 >
+        <img src="/client1/screenshots/stage4.png" alt="" height = 450 >
     </p>
 
 
@@ -270,7 +270,7 @@ The stage is to test user compreshension and Auditory Skills.
 # Stage 5: The Memory Game
 <hr>
 <p align="center">
-        <img src="/screenshots/stage5.png" alt="" >
+        <img src="/client1/screenshots/stage5.png" alt="" >
     </p>
 
 
@@ -303,7 +303,7 @@ The stage test the curiosity of the user and testing player patience to extreme 
 
 # Completion Page
 <hr>
-<img src="/screenshots/Completion.png" alt="badge">
+<img src="/client1/screenshots/Completion.png" alt="badge">
 
 # Tech Stack:
 
