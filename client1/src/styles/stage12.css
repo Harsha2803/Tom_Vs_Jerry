@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300&display=swap');
+
+.sign12Page{
+    height: 100vh;
+    background-image: url(../Assets/stage1and2.png);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 16px;
+}
+
+.body{
+    width : 150px;
+    height : 40px;
+    align-items: center;
+    margin-left: 5px;
+    position: absolute;
+    left: 50px;
+    top : 150px;
+}
+
+.goal2{
+    width : 400px;
+    color: aliceblue;
+    font-size: 25px;
+}
+
+button{
+    height : 100%;
+    width : 200%;
+    color: white;
+}
+
+.rounded-button1 {
+    border: 1px solid green;
+    border-radius : 100px;
+    background-color: green;
+}
+
+.but{
+    width : 100%;
+    height: 200%;
+    margin-top: -150%;
+    margin-left: 650%;
+    font-size: 20px;
+}

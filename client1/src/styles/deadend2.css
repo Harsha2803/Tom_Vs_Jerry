@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300&display=swap');
+
+.dead2page{
+    height: 100vh;
+    background-image: url(../Assets/deadend1.png);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 16px;
+}
+
+.proceed9{
+    width : 50%;
+    position: absolute;
+    margin-left: 25%;
+    margin-right: 25%;
+    top : 50px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.butt5{
+    width: 20%;
+    border: 5px solid green;
+    border-radius : 10px;
+    background-color: green;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top : 100px;
+    font-size: 20px;
+}

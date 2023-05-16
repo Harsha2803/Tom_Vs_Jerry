@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300&display=swap');
+
+.signinpage{
+    height: 100vh;
+    background-image: url(../Assets/Login.png);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.loginbox{
+    border-radius: 10px;
+    height: fit-content;
+    background-color: white;
+    width: fit-content;
+    padding: 10px;
+    position: relative;
+    left : 50%;
+    top : 30%;
+    background-color: transparent;
+}
+
+.entry{
+    width:400px;
+    font-size: 20px;
+    padding: 5px 0px 5px 0px;
+}
+
+.loginbutton{
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: green;
+    padding: 5px 0px 5px 0px;
+    margin:5px 0px 5px 0px;
+    width: 400px;
+}

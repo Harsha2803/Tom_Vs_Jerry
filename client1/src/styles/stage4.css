@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300&display=swap');
+
+.stage4page{
+    height: 100vh;
+    width :100%;
+    background-image: url(../Assets/stage4.png);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 16px;
+    border: 1px solid black;
+}
+
+.header4{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    border: 4px solid black;
+    padding: 5px;
+    border-radius: 50px;
+    background-color:red;
+}
+
+.butt4{
+    margin :7px 7px 0px 0px;
+    width : 100%;
+    padding: 5px;
+    border: 1px solid green;
+    border-radius : 8px;
+    background-color: green;
+}
+
+.answer4{
+    position: relative;
+    top : 50%;
+    left: 70%;
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    padding : 15px;
+}
+
+.inputbar4 > input{
+    border: 2px solid black;
+    padding : 5px;
+    border-radius: 8px;
+    width : 100%;
+}
+
+.task {
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    font-style: italic;
+    border: 1px solid white;
+    border-radius: 7px;
+    padding: 4px;
+    width : 400px;
+    margin-left: 70%;
+    margin-top: 5%;
+}

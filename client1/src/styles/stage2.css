@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300&display=swap');
+
+.stage2page{
+    height: 100vh;
+    background-image: url(../Assets/stage2.png);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 16px;
+}
+
+.header2{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    border: 4px solid black;
+    padding: 5px;
+    border-radius: 50px;
+    background-color:yellow;
+}
+
+.bodystage2{
+    position: absolute;
+    top: 150px;
+    left: 15px;
+    font-size: larger;
+    color: black;
+    font-weight: bold;
+}
+
+.butt2{
+    margin :7px 7px 0px 0px;
+    width : 100%;
+    border: 1px solid green;
+    border-radius : 100px;
+    background-color: green;
+}
+
+.answer{
+    position: relative;
+    top : 55%;
+    left: 15%;
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    padding : 15px;
+}
+
+.inputbar > input{
+    padding : 5px;
+    border-radius: 8px;
+    width : 100%;
+}

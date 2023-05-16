@@ -1,0 +1,94 @@
+.card-grid{
+    margin-top :120px;
+    margin-left :30%;
+    display: grid;
+    grid-template-columns: 0fr 0fr 0fr 1fr;
+    grid-gap:20px 20px;
+}
+.card{
+    position: relative;
+    width : 100px;
+    margin : 2px 2px 2px 2px;
+}
+
+.card img{
+    width: 100px;
+    height:100px;
+    display: block;
+    border:2px solid #fff;
+    border-radius: 6px;
+}
+.img{
+    width:100%;
+    height:100px;
+    display: block;
+    border:2px solid #fff;
+    border-radius: 6px;
+    background-color: red;
+  }
+  
+  .card .front{
+    transform: rotateY(90deg);
+    transition: all ease-in 0.2s;
+  
+    position: absolute;
+  }
+  
+  .flipped .front{
+    transform: rotateY(0deg);
+    transition-delay: 0.2s;
+  }
+  
+  .card .back{
+    transition: all ease-in 0.2s;
+    transition-delay: 0.2s;
+  }
+  
+  .flipped .back{
+    transform: rotateY(90deg);
+    transition-delay: 0s;
+  }
+
+  .header5{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    border: 4px solid black;
+    padding: 5px;
+    border-radius: 50px;
+    background-color: rgb(23, 238, 23);
+}
+
+.newgame{
+    width:200px;
+    height: 50px ;
+    border: 2px solid green;
+    background-color: green;
+    border-radius: 8px;
+    position: fixed;
+    top : 400px;
+    left: 100px;
+}
+
+.stage5page{
+    height: 100vh;
+    width :100%;
+    background-image: url(../Assets/stage5.png);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-items: center;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 16px;
+    border: 1px solid black;
+}
+
+.mt-3{
+    position:absolute;
+    color: aliceblue;
+    top : 450px;
+    left: 150px;
+}
