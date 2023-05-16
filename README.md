@@ -2,7 +2,7 @@
 # TVJ - Tom Vs Jerry
 
 <p align="center">
-    <img src="/screenshots/logo.png" alt="" width=400>
+    <img src="/client1/screenshots/logo.png" alt="" width=400>
 <br><br>
 A responsive treasure hunt game mixed with intelligence, surprise and risk around every corner.
 based on cartoon Tom and Jerry. <br><br>[Live Link](https://harsha2803.github.io/TVJ-Puzzle-Game/)
